@@ -10,12 +10,17 @@ You are allowed to use this code for your own use just make sure to credit me in
 
 # Issues
 ```There maybe problems with Realms```
+
 ```Speed is weird i will fix it in the future```
+
 ```Anti cobweb seems to be weird when near edge of a block```
+
 ```PlayerESP makes your screen green when highliting player (maybe because it highlights you)```
+
 ```If issues arise or you have some fixes for it. Make an issue.```
 
 # notes
 Some modules have been adapted from other clients:
 ```ItemESP, PlayerESP, StorageESP, MobESP and Tracers - Xdolf```
+
 ```FullBright - Cookie Client```
